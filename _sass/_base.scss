@@ -4,9 +4,11 @@
 
 body {
   font-family: $serif-font-family;
-  font-size: 18px;
+  font-size: 19px;
   color: $body-color;
   line-height: 1.75rem;
+  background-color: Black;
+  text-align: justify;
 }
 
 @media (max-width: $elements-responsive-width) {
@@ -77,4 +79,10 @@ table, th, td {
 th, td {
   padding: 15px;
   text-align: left;
+}
+
+ul {
+  padding: 0px;
+  list-style-position: inside;
+  list-style-type: "- ";
 }
