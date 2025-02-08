@@ -20,9 +20,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Hanae y reliquia del dragón'
-description:	      "by Nuria Hernandez"
-author:              'Nuria Hernandez'
+title:		           'Hanae y la Reliquia del Dragón'
+description:	      "by Núria Hernandez"
+author:              'Núria Hernandez'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
