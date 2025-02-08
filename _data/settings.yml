@@ -20,6 +20,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
+sharing_button_prompt: 'Comparte!'
 
 related_posts: 'You may also enjoy:'
 
