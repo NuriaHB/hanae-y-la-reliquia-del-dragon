@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mi :)
+title: Soobre la historia...
 permalink: /about
 ---
 
