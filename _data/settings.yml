@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Sobre mi',   url: 'about.html'}
+- {name: 'Sobre la historia',   url: 'about.html'}
 - {name: 'Capítulos', url: 'writing.html'}
 - {name: 'Galería', url: 'contact.html'}
 
