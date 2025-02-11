@@ -12,8 +12,8 @@ Mi agradecimiento especial a Jan por ayudarme a montar la web y hacerlo visible 
 
 
 ## ToDo
-- [ ] Capítulo 1 (en gran) + subtitol del capitol (tamany més petit) 
-- [ ] Que no es vegi el text del capítol fins que no cliques el capítol)
-- [ ] Dins de 'Galería', treure tot el que hi ha i posar nomes imatges
-- [ ] Dins de 'Capitulos', el titol de dins apareix Writing (en anglès) es pot treure
-- [ ] Canviar el tipus de lletra del títol. - A quin tipus?
+- [X] QUICK - Dins de 'Capitulos', el titol de dins apareix Writing (en anglès) es pot treure - traduit, por tambe es pot treuere del tot
+- [ ] QUICK - Que no es vegi el text del capítol fins que no cliques el capítol
+- [ ] MEDIUM - Capítulo 1 (en gran) + subtitol del capitol (tamany més petit) 
+- [ ] LONG - Dins de 'Galería', treure tot el que hi ha i posar nomes imatges
+- [ ] UNCLEAR - Canviar el tipus de lletra del títol. - A quin tipus?
