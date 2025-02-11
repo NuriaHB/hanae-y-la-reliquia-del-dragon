@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
+{% for post in paginator.posts reversed %}
   <div class="posts-container">
     <h1>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
