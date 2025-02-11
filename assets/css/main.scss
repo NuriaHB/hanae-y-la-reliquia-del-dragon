@@ -2,18 +2,20 @@
 ---
 
 $sans-serif-font-family: "Quattrocento Sans", sans-serif;
+$title-font-family: "Caveat", sans-serif;
+$subtitle-font-family: "Kaushan Script", serif;
 $serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
 $code-font-family:       "Source Code Pro", monospace;
 
-$body-color:            White;
-$link-color:            WhiteSmoke;
+$body-color:            white;
+$link-color:            floralwhite;
 
 $code-background-color:   #f5f5f5;
 $pagination-button-color: #e0e0e0;
 
-$dark-gray-color:        White;
-$light-gray-color:       White;
-$extra-light-gray-color: White;
+$white-uno:		floralwhite;
+$white-dos:		floralwhite;
+$white-tres:	floralwhite;
 
 $container-responsive-width: 768px;
 $elements-responsive-width:  30em;
