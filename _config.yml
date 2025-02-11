@@ -2,17 +2,16 @@
 
 # Jekyll-paginate-v2 configuration
 #  pagination:
-#    enabled: true
-#    per_page: 5
+#   enabled: true
+#   per_page: 5
 #   permalink: '/page/:num/'
 #   title: ':title - page :num of :max'
 #   limit: 0
 #   sort_field: 'date'
-#    sort_reverse: true
+#   sort_reverse: true
 
 # jekyll-paginate configuration
 paginate:            5
-
 
 # Build settings
 markdown:            kramdown
@@ -21,7 +20,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Hanae y reliquia del dragón'
+title:		           'Hanae y la Reliquia del Dragón'
 description:	      "by Núria Hernandez"
 author:              'Núria Hernandez'
 

@@ -17,11 +17,13 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Adelante'
-  previous_page: 'Atras'
+  next_page: 'Nuevos'
+  previous_page: 'Viejos'
 
-sharing_button_prompt: 'Comparte!'
+sharing_button_prompt:
 
-related_posts: 'Tambien te gustara:'
+
+
+related_posts: 'También te gustará:'
 
 post_date_prefix: 'Escrito el'
