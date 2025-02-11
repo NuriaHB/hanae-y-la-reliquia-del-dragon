@@ -17,11 +17,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Adelante'
+  previous_page: 'Atras'
 
 sharing_button_prompt: 'Comparte!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Tambien te gustara:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito el'
