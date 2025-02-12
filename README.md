@@ -14,6 +14,6 @@ Mi agradecimiento especial a Jan por ayudarme a montar la web y hacerlo visible 
 ## ToDo
 - [X] QUICK - Dins de 'Capitulos', el titol de dins apareix Writing (en anglès) es pot treure - traduit, por tambe es pot treuere del tot
 - [X] QUICK - Que no es vegi el text del capítol fins que no cliques el capítol
-- [X] MEDIUM - Capítulo 1 (en gran) + subtitol del capitol (tamany més petit) 
+- [X] MEDIUM - Capítulo 1 (en gran) + subtitol del capitol (tamany més petit)
+- [X] MEDIUM - Canviar el tipus de lletra del títol. A Caveat pel titol i Kaushan Script pel subtitol
 - [ ] LONG - Dins de 'Galería', treure tot el que hi ha i posar nomes imatges
-- [ ] UNCLEAR - Canviar el tipus de lletra del títol. - A quin tipus?

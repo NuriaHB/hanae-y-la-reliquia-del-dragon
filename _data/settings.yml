@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Sobre la historia',   url: 'about.html'}
+- {name: 'Sobre la historia',   url: 'sobre.html'}
 - {name: 'Capítulos', url: 'capitulos.html'}
-- {name: 'Galería', url: 'contact.html'}
+- {name: 'Galería', url: 'galeria.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -17,12 +17,10 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Nuevos'
-  previous_page: 'Viejos'
+  next_page: 'Adelante'
+  previous_page: 'Atras'
 
 sharing_button_prompt:
-
-
 
 related_posts: 'También te gustará:'
 
