@@ -18,7 +18,7 @@ social:
 # Customize site text
 pagination:
   next_page: 'Adelante'
-  previous_page: 'Atras'
+  previous_page: 'Atrás'
 
 sharing_button_prompt:
 

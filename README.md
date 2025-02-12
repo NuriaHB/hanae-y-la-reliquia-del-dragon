@@ -15,5 +15,5 @@ Mi agradecimiento especial a Jan por ayudarme a montar la web y hacerlo visible 
 - [X] QUICK - Dins de 'Capitulos', el titol de dins apareix Writing (en anglès) es pot treure - traduit, por tambe es pot treuere del tot
 - [X] QUICK - Que no es vegi el text del capítol fins que no cliques el capítol
 - [X] MEDIUM - Capítulo 1 (en gran) + subtitol del capitol (tamany més petit)
-- [X] MEDIUM - Canviar el tipus de lletra del títol. A Caveat pel titol i Kaushan Script pel subtitol
-- [ ] LONG - Dins de 'Galería', treure tot el que hi ha i posar nomes imatges
+- [X] MEDIUM - Canviar el tipus de lletra del títol. A Caveat pel titol i subtitol dels capitols i Kaushan Script pel Titol "Hanae y la..." de la pagina
+- [X] LONG - Dins de 'Galería', treure tot el que hi ha i posar nomes imatges
