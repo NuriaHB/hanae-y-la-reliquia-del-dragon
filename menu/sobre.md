@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre la historia...
-permalink: /about
+permalink: /sobre
 ---
 
 Dibujo como hobbie, me encanta el café y leer mangas. 
